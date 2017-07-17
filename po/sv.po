@@ -1,23 +1,24 @@
 # Swedish messages for gst-plugins-base.
-# Copyright © 2004-2016 Free Software Foundation, Inc.
+# Copyright © 2004, 2005, 2007, 2008, 2009, 2014, 2015, 2016, 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gst-plugins-base package.
-# Christian Rose <menthos@menthos.com>, 2004.
+# Christian Rose <menthos@menthos.com>, 2004, 2005.
 # Daniel Nylander <po@danielnylander.se>, 2007, 2008, 2009.
-# Sebastian Rasmussen <sebras@gmail.com>, 2014, 2015, 2016.
+# Sebastian Rasmussen <sebras@gmail.com>, 2014, 2015, 2016, 2017.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gst-plugins-base 1.7.90\n"
+"Project-Id-Version: gst-plugins-base 1.10.0\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/\n"
-"POT-Creation-Date: 2017-05-04 15:02+0300\n"
-"PO-Revision-Date: 2016-03-02 22:20+0100\n"
+"POT-Creation-Date: 2017-07-14 13:25+0300\n"
+"PO-Revision-Date: 2017-05-21 18:55+0800\n"
 "Last-Translator: Sebastian Rasmussen <sebras@gmail.com>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Poedit 1.8.11\n"
 
 msgid "Could not open device for playback in mono mode."
 msgstr "Kunde inte öppna enheten för uppspelning i monoläge."
@@ -87,13 +88,11 @@ msgstr "Den här ser ut att vara en textfil"
 msgid "Could not create \"uridecodebin\" element."
 msgstr "Kunde inte skapa \"uridecodebin\"-element."
 
-#, fuzzy
 msgid "Could not create \"decodebin3\" element."
-msgstr "Kunde inte skapa \"uridecodebin\"-element."
+msgstr "Kunde inte skapa \"decodebin3\"-element."
 
-#, fuzzy
 msgid "Could not create \"urisourcebin\" element."
-msgstr "Kunde inte skapa \"uridecodebin\"-element."
+msgstr "Kunde inte skapa \"urisourcebin\"-element."
 
 #, c-format
 msgid "Both autovideosink and %s elements are missing."
@@ -228,9 +227,8 @@ msgstr "Undertextformatet TMPlayer"
 msgid "Kate subtitle format"
 msgstr "Undertextformatet Kate"
 
-#, fuzzy
 msgid "WebVTT subtitle format"
-msgstr "Undertextformatet Kate"
+msgstr "WebVTT-undertextformat"
 
 msgid "Uncompressed video"
 msgstr "Okomprimerad video"
@@ -398,14 +396,13 @@ msgstr "brännvidd"
 msgid "Focal length of the lens used capturing the image, in mm"
 msgstr "Brännvidd för linsen i mm när bild infångas"
 
-#, fuzzy
 msgid "capturing 35 mm equivalent focal length"
-msgstr "brännvidd"
+msgstr "fångar 35mm-ekvivalent brännvidd"
 
-#, fuzzy
 msgid ""
 "35 mm equivalent focal length of the lens used capturing the image, in mm"
-msgstr "Brännvidd för linsen i mm när bild infångas"
+msgstr ""
+"35 mm-ekvivalent brännvidd för linsen som används när bild infångas, i mm"
 
 msgid "capturing digital zoom ratio"
 msgstr "digitalt zoom-förhållande"
