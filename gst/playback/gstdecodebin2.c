@@ -241,7 +241,7 @@ enum
  * as low as possible (try to aim for 5 buffers) */
 #define AUTO_PLAY_SIZE_BYTES        2 * 1024 * 1024
 #define AUTO_PLAY_SIZE_BUFFERS      5
-#define AUTO_PLAY_SIZE_TIME         8 * GST_SECOND
+#define AUTO_PLAY_SIZE_TIME         6 * GST_SECOND
 
 #define DEFAULT_SUBTITLE_ENCODING NULL
 #define DEFAULT_USE_BUFFERING     FALSE
